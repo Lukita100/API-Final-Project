@@ -1,0 +1,21 @@
+*Packages/Libraries Required:
+
+beautiful soup (bs4)
+request
+flask
+requests
+jsonify
+flask_mysqldb
+flask_smores
+flask_cors
+flask_jwt_extended
+flask_bcrypt
+datetime, timedelta
+flask_restx
+streamlit
+db
+
+-----------------------------
+
+
+
